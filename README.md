@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Janki55555
+- 👀 I’m interested in software developers
+- 💞️ I’m looking to collaborate on flutter and react JS, IOT, IOMT, Angular JS2
+- 📫 How to reach me jankikarni@gmail.com
